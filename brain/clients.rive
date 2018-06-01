@@ -1,0 +1,9 @@
++ hello bot
+- Hello what is your name ?!
+
++ my name is _
+% hello what is your name
+- <set name=<star>> Welcome <star> !
+
++ what is my name
+- Aren't you <get name> ?
